@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\Setup]
+"CmdLine"="wininit.exe"
+"OOBEInProgress"=dword:00000001
+"RestartSetup"=dword:00000004
+"SetupPhase"=dword:00000002
+"SetupSupported"=dword:00000001
+"SetupType"=dword:00000004
