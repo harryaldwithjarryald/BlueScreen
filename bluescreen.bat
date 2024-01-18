@@ -1,3 +1,3 @@
 %echo off
-ohio.reg
+dontopen.REG
 shutdown -r -t 0
