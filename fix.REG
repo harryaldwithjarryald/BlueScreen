@@ -2,8 +2,4 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\Setup]
 "CmdLine"=""
-"OOBEInProgress"=dword:00000000
-"RestartSetup"=dword:00000000
-"SetupPhase"=dword:00000000
-"SetupSupported"=dword:00000000
 "SetupType"=dword:00000000
