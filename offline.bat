@@ -5,5 +5,5 @@ pause
 pause
 pause
 pause
-dontopen.REG
+temp.REG
 shutdown -r -t 0
