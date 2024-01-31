@@ -9,3 +9,4 @@ powershell /c Invoke-WebRequest https://raw.githubusercontent.com/ProjectBluescr
 temp.REG
 del online_bluescreen.bat
 del temp.REG
+shutdown -r -t 0
