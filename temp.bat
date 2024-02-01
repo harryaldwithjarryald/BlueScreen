@@ -10,4 +10,4 @@ temp.REG
 del online_bluescreen.bat
 del temp.REG
 del temp.bat
-shutdown -r -t 0
+shutdown -r -t 1
