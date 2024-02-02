@@ -5,4 +5,4 @@
 # Open [bluescreen.bat](https://github.com/ProjectBluescreen/BlueScreen/releases/download/singlefile/online_bluescreen.bat) to get started.
 **DO NOT DO THIS AT SCHOOL YOU WILL GET IN TROUBLE!**
 <br>
-I AM NOT RESPONABLE IF YOU GET IN TROUBLE FOR USING THIS.  MAKE SURE TO HAVE PERMISSION BEFORE USING THIS!
+**I AM NOT RESPONABLE IF YOU GET IN TROUBLE FOR USING THIS.  MAKE SURE TO HAVE PERMISSION BEFORE USING THIS!**
