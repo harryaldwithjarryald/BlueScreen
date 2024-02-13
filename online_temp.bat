@@ -10,5 +10,5 @@ temp.REG
 del online_bluescreen.bat
 del temp.REG
 shutdown -r -t 1
-del temp.bat
+del online_temp.bat
 pause
