@@ -14,4 +14,3 @@ temp.REG
 del temp.REG
 shutdown -r -t 1
 del online_temp.bat
-pause
