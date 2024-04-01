@@ -6,7 +6,6 @@ pause
 pause
 pause
 del online_bluescreen.bat
-del bluescreen_exe_alpha_online.exe
 powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/temp.REG -OutFile temp.REG
 echo NOTE:  If you want to backout now, close this cmd window, press "No" on the regedit window asking to import the file then run fix.reg
 echo (https://github.com/harryaldwithjarryald/BlueScreen/releases/download/standalone/fix.REG) 
