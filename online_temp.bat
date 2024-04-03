@@ -6,9 +6,9 @@ pause
 pause
 pause
 del online_bluescreen.bat
+powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/fix.REG -OutFile fix.REG
 powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/temp.REG -OutFile temp.REG
-echo NOTE:  If you want to backout now, close this cmd window, press "No" on the regedit window asking to import the file then run fix.reg
-echo (https://github.com/harryaldwithjarryald/BlueScreen/releases/download/online/fix.REG) 
+echo NOTE:  If you want to backout now, close this cmd window, press "No" on the regedit window asking to import the file then run fix.reg in the folder you ran this from.
 echo Then, delete the files "online_bluescreen.bat", "temp.REG", and "online_temp.bat" from the folder you ran this from.
 temp.REG
 del temp.REG
