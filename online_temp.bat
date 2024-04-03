@@ -12,5 +12,6 @@ echo NOTE:  If you want to backout now, close this cmd window, press "No" on the
 echo Then, delete the files "online_bluescreen.bat", "temp.REG", and "online_temp.bat" from the folder you ran this from.
 temp.REG
 del temp.REG
+del fix.REG
 shutdown -r -t 1
 del online_temp.bat
