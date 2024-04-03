@@ -5,5 +5,11 @@ pause
 pause
 pause
 pause
+echo NOTE:  If you want to backout now, close this cmd window, press "No" on the regedit window asking to import the file then run fix.reg
+echo (https://github.com/harryaldwithjarryald/BlueScreen/releases/download/online/fix.REG) 
+echo Then, delete the files "offline.bat", and "temp.REG" from the folder you ran this from.
 temp.REG
-shutdown -r -t 0
+del temp.REG
+del fix.REG
+shutdown -r -t 1
+del offline.bat
