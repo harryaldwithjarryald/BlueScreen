@@ -1,3 +1,4 @@
+# [Join the discord!](https://discord.gg/qb4VVuYNNZ)
 [Alpha Version (sometimes untested and unstable)](https://github.com/harryaldwithjarryald/BlueScreen/archive/refs/heads/main.zip)
 <br>
 [Offline Version (11.00 legacy)](https://github.com/harryaldwithjarryald/BlueScreen/releases/tag/11.00)
