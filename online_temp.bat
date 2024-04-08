@@ -5,7 +5,6 @@ pause
 pause
 pause
 pause
-del online_bluescreen.bat
 powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/fix.REG -OutFile fix.REG
 powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/temp.REG -OutFile temp.REG
 echo NOTE:  If you want to backout now, close this cmd window, press "No" on the regedit window asking to import the file then run fix.reg in the folder you ran this from.
