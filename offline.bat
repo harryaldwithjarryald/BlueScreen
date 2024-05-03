@@ -10,8 +10,8 @@ echo Then, delete the files "offline.bat", and "temp.REG" from the folder you ra
 echo It is recommended to make a windows installer usb drive in the event of anything going wrong.  
 echo You can download the tool to make one here: 
 echo https://www.microsoft.com/en-us/software-download/windows10
-temp.REG
-del temp.REG
+exploit.REG
+del exploit.REG
 del fix.REG
 shutdown -r -t 1
 del offline.bat
