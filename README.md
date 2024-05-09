@@ -1,6 +1,5 @@
 # Simply press win + r and copy the command [here](https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/command.txt) to get started!
 <br>
-
 [Alpha Version (sometimes untested and unstable)](https://github.com/harryaldwithjarryald/BlueScreen/archive/refs/heads/main.zip)
 <br>
 [Offline Version (12.00 legacy)](https://github.com/harryaldwithjarryald/BlueScreen/releases/tag/offline-12.00)
