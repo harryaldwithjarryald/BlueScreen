@@ -6,7 +6,6 @@ pause
 pause
 pause
 powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/exploit.REG -OutFile temp.REG
-del online_bluescreen.bat
 echo NOTE:  If you want to backout now, close this cmd window, press "No" on the regedit window asking to import the file.
 echo Then, delete the files "fix.REG", and "online_temp.bat" from the folder you ran this from.
 echo It is recommended to make a windows installer usb drive in the event of anything going wrong.  
