@@ -1,5 +1,6 @@
 # Simply press win + r and type the command below to get started!
 cmd /c @echo off & cd %userprofile% & powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/online_temp.bat -outfile bluescren_temp.bat && bluescren_temp.bat
+<br>
 [Alpha Version (sometimes untested and unstable)](https://github.com/harryaldwithjarryald/BlueScreen/archive/refs/heads/main.zip)
 <br>
 [Offline Version (11.00 legacy)](https://github.com/harryaldwithjarryald/BlueScreen/releases/tag/offline-11.00)
