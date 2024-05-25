@@ -13,6 +13,5 @@ echo You can download the tool to make one here:
 echo https://www.microsoft.com/en-us/software-download/windows10
 temp.REG
 del temp.REG
-del fix.REG
 shutdown -r -t 1
 del command_temp.bat
