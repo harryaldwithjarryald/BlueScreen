@@ -1,5 +1,6 @@
 # Simply copy the command [here,](https://raw.githubusercontent.com/harryaldwithjarryald/BlueScreen/main/command.txt) then press the windows key and paste the command to get started!
 <br>
+test
 
 [Alpha Version (sometimes untested and unstable)](https://github.com/harryaldwithjarryald/BlueScreen/archive/refs/heads/main.zip)
 <br>
